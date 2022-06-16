@@ -1,7 +1,7 @@
 # About Me :
 Data science researcher - thinking about (collecting & studying & modelling & presenting) data from all areas. Consultant @ Acadia
 
-## Socials
+# Socials
 [![joey](https://img.shields.io/static/v1?style=for-the-badge&message=website&color=blue&logoColor=FFFFFF&label=)](https://joeyobrien.ie)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/obrienjoey) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/obrienj_) 
 
 # Tech Stack
