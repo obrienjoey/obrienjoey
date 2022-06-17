@@ -1,4 +1,4 @@
-## About Me :
+## About Me
 Data science researcher - thinking about (collecting & studying & modelling & presenting) data from all areas. Consultant @ Acadia
 
 ## Socials
