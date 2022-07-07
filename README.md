@@ -18,6 +18,13 @@ Using data science and applied mathematics to understand topics including social
   <a href="https://github.com/obrienjoey/covid19northernireland"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=obrienjoey&repo=covid19northernireland&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="covid19northernireland"></a>
 </p>
 
+## Databses
+
+<p align="left">
+  <a href="https://github.com/obrienjoey/springsteenn_db"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=obrienjoey&repo=springsteen_db&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="springsteen_db"></a>
+  <a href="https://github.com/obrienjoey/snookerdb"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=obrienjoey&repo=snookerdb&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="snookerdb"></a>
+</p>
+
 ## Talks
 Some of my talks in academic and software settings can be found here
 <p align="left">
